@@ -1,4 +1,4 @@
-#assumptions
+#my machine had problems, didn't get time to refactor this to what I have in Part A
 class Farmer:
     def __init__(self, number, name):
         self.setNumber(number)
