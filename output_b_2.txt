@@ -1,0 +1,12 @@
+Farmer Peter
+Number:  1  Name:  John
+Number:  2  Name:  Peter
+Number:  3  Name:  Ken
+Number:  4  Name:  James
+removed farmer  2
+Number:  1  Name:  John
+Number:  3  Name:  Ken
+Number:  4  Name:  James
+Number:  5  Name:  Kenneth
+Next Farmer  4
+Previous Farmer  1
