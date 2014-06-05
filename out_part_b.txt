@@ -1,0 +1,21 @@
+Added farmer  1
+Number:  1  Name:  John
+Added farmer  2
+Added farmer  3
+Added farmer  4
+Number:  1  Name:  John
+Number:  2  Name:  Njoroge
+Number:  3  Name:  Kamau
+Number:  4  Name:  Koech
+Removed farmer  2
+Number:  1  Name:  John
+Number:  3  Name:  Kamau
+Number:  4  Name:  Koech
+Added farmer  5
+Number:  1  Name:  John
+Number:  3  Name:  Kamau
+Number:  4  Name:  Koech
+Number:  5  Name:  Tonui
+next  4
+previous  1
+xDays 5

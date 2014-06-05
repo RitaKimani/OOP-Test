@@ -1,0 +1,6 @@
+Farmer Peter
+Number:  1  Name:  John
+Number:  2  Name:  Peter
+removed farmer  2
+Number:  1  Name:  John
+Number:  3  Name:  Ken
